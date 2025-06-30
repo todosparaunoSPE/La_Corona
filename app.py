@@ -95,7 +95,8 @@ st.download_button("Descargar CSV", data.to_csv(index=False), file_name="ventas_
 st.markdown("---")
 st.markdown("### 👨‍💼 Sobre mí")
 st.info("""
-Mi nombre es **Javier Horacio Pérez Ricárdez**, analista y científico de datos con experiencia en el sector de manufactura y consumo. 
+Mi nombre es **Javier Horacio Pérez Ricárdez**, analista y científico de datos con experiencia en el sector de manufactura y consumo.  
+📱 **Celular:** +52 55 7425 5593
 Especialista en:
 - Análisis de tendencias de mercado
 - Inteligencia de negocios
