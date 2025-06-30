@@ -96,7 +96,7 @@ st.markdown("---")
 st.markdown("### 👨‍💼 Sobre mí")
 st.info("""
 Mi nombre es **Javier Horacio Pérez Ricárdez**, analista y científico de datos con experiencia en el sector de manufactura y consumo.  
-📱 **Celular:** +52 55 7425 5593
+📱 **Celular:** +52 56 1056 4095
 Especialista en:
 - Análisis de tendencias de mercado
 - Inteligencia de negocios
